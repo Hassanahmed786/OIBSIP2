@@ -17,9 +17,9 @@ This is a graphical BMI (Body Mass Index) calculator with a user-friendly interf
 
 ## Installation
 - please create a venv and isolate the installations
--- import tkinter as tk
--- from tkinter import ttk, messagebox
--- import pandas as pd
--- import matplotlib.pyplot as plt
--- from datetime import datetime
+- - import tkinter as tk
+- - from tkinter import ttk, messagebox
+- - import pandas as pd
+- - import matplotlib.pyplot as plt
+- - from datetime import datetime
   
