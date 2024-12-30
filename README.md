@@ -1,5 +1,3 @@
-# OIBSIP2
-
 # BMI Calculator
 
 This is a graphical BMI (Body Mass Index) calculator with a user-friendly interface (GUI) built using Tkinter. It allows users to input weight and height, calculates BMI, and visualizes the result. It also supports data storage for multiple users, historical data viewing, and BMI trend analysis through statistics and graphs.
